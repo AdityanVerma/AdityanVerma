@@ -2,8 +2,8 @@
 
 ## I'm a Developer!
 - 🌱 I’m currently pursuing an Engineering in Computer Science.
-- 👯 I’m looking to collaborate with full stack Devloper.
-- ⚡ Fun fact: I love to play football and play guitar/drums.
+- 👯 I’m looking to collaborate with Different Programmers.
+- ⚡ Fun fact: I love to play football and play guitar/piano/drums.
 
 ### Connect with me:
 

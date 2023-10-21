@@ -14,6 +14,5 @@
 <br />
 <br />
 
-[twitter]: https://twitter.com/adityan_verma
 [instagram]: https://www.instagram.com/adityan_verma/
 [linkedin]: https://www.linkedin.com/in/adityan-verma-b09905227/

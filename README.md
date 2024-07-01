@@ -7,8 +7,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Adityan | LinkedIn" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/LinkedIN_white.svg" />][linkedin]
-[<img align="left" alt="Adityan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="filter:invert(100%)" />][instagram]
+[<img align="left" alt="Adityan | LinkedIn" width="32px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/LinkedIN_white.svg" />][linkedin]
+[<img align="left" alt="Adityan | Instagram" width="32px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Instagram_white.svg" />][instagram]
 
 <br />
 <br />

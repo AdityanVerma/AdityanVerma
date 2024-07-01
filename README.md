@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Adityan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="filter:invert(100%)" />][linkedin]
+[<img align="left" alt="Adityan | LinkedIn" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/LinkedIN_white.svg" />][linkedin]
 [<img align="left" alt="Adityan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="filter:invert(100%)" />][instagram]
 
 <br />

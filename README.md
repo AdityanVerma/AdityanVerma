@@ -5,8 +5,6 @@
 - 👯 I’m looking to collaborate with Developers.
 - ⚡ Fun fact: I love to play football and play drums.
 
-[![Adityan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityanVerma)](https://github.com/AdityanVerma/github-readme-stats)
-
 ### Connect with me:
 
 [<img align="left" alt="Adityan | LinkedIn" width="32px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/LinkedIN_white.svg" />][linkedin]

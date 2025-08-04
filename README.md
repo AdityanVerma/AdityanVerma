@@ -8,6 +8,7 @@
 ### 📊 WakaTime Stats
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=6e3a0c30-2bd0-42f4-ab2e-46ad6a870c65&layout=compact&theme=tokyonight)
+![WakaTime Stats](https://wakatime.com/share/@6e3a0c30-2bd0-42f4-ab2e-46ad6a870c65/some-image-id.png)
 
 
 ### Connect with me:

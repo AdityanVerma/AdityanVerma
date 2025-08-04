@@ -1,23 +1,34 @@
 ### Hi there, I'm Adityan - aka [CODEPOINT] 👋
 
-## I'm a Developer!
+![Profile Views](https://komarev.com/ghpvc/?username=Adityan-Verma&color=blue)
+[![wakatime](https://wakatime.com/badge/user/6e3a0c30-2bd0-42f4-ab2e-46ad6a870c65.svg)](https://wakatime.com/@6e3a0c30-2bd0-42f4-ab2e-46ad6a870c65)
+
+## 👨‍💻 I'm a Developer!
 - 🌱 I’m currently pursuing an Engineering in Computer Science.
 - 👯 I’m looking to collaborate with Developers.
 - ⚡ Fun fact: I love to play football and play drums.
 
+---
+
 ### 📊 WakaTime Stats
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=6e3a0c30-2bd0-42f4-ab2e-46ad6a870c65&layout=compact&theme=tokyonight)
-![WakaTime Stats](https://wakatime.com/share/@6e3a0c30-2bd0-42f4-ab2e-46ad6a870c65/some-image-id.png)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-### Connect with me:
+---
 
-[<img align="left" alt="Adityan | LinkedIn" width="32px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/LinkedIN_white.svg" />][linkedin]
-[<img align="left" alt="Adityan | Instagram" width="32px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Instagram_white.svg" />][instagram]
+### 📈 GitHub Stats
 
-<br />
-<br />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adityan-Verma&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityan-Verma&layout=compact&theme=tokyonight)
 
-[instagram]: https://www.instagram.com/adityan_verma/
-[linkedin]: https://www.linkedin.com/in/adityan-verma-b09905227/
+---
+
+### 📬 Connect with me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/adityan-verma-b099052227/"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" width="40"/></a>
+<a href="https://www.instagram.com/adityan_verma/"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" width="40"/></a>
+</p>

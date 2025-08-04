@@ -5,7 +5,9 @@
 - 👯 I’m looking to collaborate with Developers.
 - ⚡ Fun fact: I love to play football and play drums.
 
-<figure><embed src="https://wakatime.com/share/@6e3a0c30-2bd0-42f4-ab2e-46ad6a870c65/6dadc801-7717-4e2f-b4ca-cbfb4cc6086e.svg"></embed></figure>
+### 📊 WakaTime Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### Connect with me:
 

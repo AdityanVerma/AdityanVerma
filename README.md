@@ -21,14 +21,18 @@
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adityan-Verma&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityan-Verma&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityanVerma&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityanVerma&layout=compact&theme=tokyonight)
 
 ---
 
-### 📬 Connect with me
+### 📬 Connect with me:
 
-<p align="left">
-<a href="https://www.linkedin.com/in/adityan-verma-b099052227/"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" width="40"/></a>
-<a href="https://www.instagram.com/adityan_verma/"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" width="40"/></a>
-</p>
+[<img align="left" alt="Adityan | LinkedIn" width="32px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/LinkedIN_white.svg" />][linkedin]
+[<img align="left" alt="Adityan | Instagram" width="32px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Instagram_white.svg" />][instagram]
+
+<br />
+<br />
+
+[instagram]: https://www.instagram.com/adityan_verma/
+[linkedin]: https://www.linkedin.com/in/adityan-verma-b09905227/

@@ -26,13 +26,16 @@
 
 ---
 
+### 🛠️ Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,git,linux,vscode" />
+</p>
+
+---
+
 ### 📬 Connect with me:
 
-[<img align="left" alt="Adityan | LinkedIn" width="32px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/LinkedIN_white.svg" />][linkedin]
-[<img align="left" alt="Adityan | Instagram" width="32px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Instagram_white.svg" />][instagram]
-
-<br />
-<br />
-
-[instagram]: https://www.instagram.com/adityan_verma/
-[linkedin]: https://www.linkedin.com/in/adityan-verma-b09905227/
+<p align="left">
+<a href="https://www.linkedin.com/in/adityan-verma-b09905227/"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/LinkedIN_white.svg" width="40"/></a>
+<a href="https://www.instagram.com/adityan_verma/"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Instagram_white.svg" width="40"/></a>
+</p>

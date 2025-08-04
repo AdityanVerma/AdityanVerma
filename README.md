@@ -6,8 +6,9 @@
 - ⚡ Fun fact: I love to play football and play drums.
 
 ### 📊 WakaTime Stats
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=6e3a0c30-2bd0-42f4-ab2e-46ad6a870c65&layout=compact&theme=tokyonight)
+
 
 ### Connect with me:
 

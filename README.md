@@ -1,9 +1,9 @@
 ### Hi there, I'm Adityan - aka [CODEPOINT] 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Adityan-Verma&color=blue)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Adityan-Verma&color=blue) -->
 [![wakatime](https://wakatime.com/badge/user/6e3a0c30-2bd0-42f4-ab2e-46ad6a870c65.svg)](https://wakatime.com/@6e3a0c30-2bd0-42f4-ab2e-46ad6a870c65)
 
-## 👨‍💻 I'm a Developer!
+## 👨‍💻 I'm a Developer !!
 - 🌱 I'm a Computer Science Engineering.
 - 👯 I’m looking to collaborate with Developers.
 - ⚡ Fun fact: I love to play drums.
@@ -19,18 +19,18 @@
 
 ---
 
-### 📈 GitHub Stats
+<!-- ### 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityanVerma&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityanVerma&layout=compact&theme=tokyonight)
 
----
+--- -->
 
 ### 🛠️ Tools & Technologies
 
 #### 💻 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
 </p>
 
 #### 🌐 Technologies
@@ -40,7 +40,7 @@
 
 #### ⚙️ Tools
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,sublime,intellij,git,github,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,sublime,git,github,postman" />
 </p>
 
 

@@ -4,9 +4,9 @@
 [![wakatime](https://wakatime.com/badge/user/6e3a0c30-2bd0-42f4-ab2e-46ad6a870c65.svg)](https://wakatime.com/@6e3a0c30-2bd0-42f4-ab2e-46ad6a870c65)
 
 ## 👨‍💻 I'm a Developer!
-- 🌱 I’m currently pursuing an Engineering in Computer Science.
+- 🌱 I'm a Computer Science Engineering.
 - 👯 I’m looking to collaborate with Developers.
-- ⚡ Fun fact: I love to play football and play drums.
+- ⚡ Fun fact: I love to play drums.
 
 ---
 
@@ -27,15 +27,29 @@
 ---
 
 ### 🛠️ Tools & Technologies
+
+#### 💻 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,git,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js" />
 </p>
+
+#### 🌐 Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express,mongodb,mysql,rest" />
+</p>
+
+#### ⚙️ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,sublime,intellij,git,github,postman" />
+</p>
+
+
 
 ---
 
 ### 📬 Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/adityan-verma-b09905227/"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/LinkedIN_white.svg" width="40"/></a>
+<a href="https://www.linkedin.com/in/adityan-verma-b09905227/"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/LinkedIN_white.svg" width="40" padding="20px"/></a>
 <a href="https://www.instagram.com/adityan_verma/"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Instagram_white.svg" width="40"/></a>
 </p>

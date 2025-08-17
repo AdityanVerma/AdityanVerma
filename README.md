@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me  !!! 
 - 💻 Passionate **developer** who loves turning ideas into code.  
-- 👯 Open to collaborating with **developers, designers, and open-source projects**.  
+- 👯 Always happy to team up with **developers, designers,** and **fellow open-source enthusiasts**.  
 - ⚡ Fun fact: When I’m not coding, you’ll probably find me **playing drums 🥁**.  
 
 ---

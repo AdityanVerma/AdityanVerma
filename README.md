@@ -14,6 +14,18 @@
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=6e3a0c30-2bd0-42f4-ab2e-46ad6a870c65&layout=compact&theme=tokyonight)
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 09 August 2025 - To: 16 August 2025
+
+Total Time: 1 hr 16 mins
+
+C++          45 mins         ██████████████▓░░░░░░░░░░   58.95 %
+Text         14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.82 %
+XML          8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 %
+Git Config   8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
+```
+
 <!--END_SECTION:waka-->
 
 ---

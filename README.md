@@ -1,11 +1,13 @@
-### Hi there, I'm Adityan - aka [CODEPOINT] 👋
+### Hi there, I'm Adityan — aka **[CODEPOINT]** 👋  
 
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Adityan-Verma&color=blue) -->
-[![wakatime](https://wakatime.com/badge/user/6e3a0c30-2bd0-42f4-ab2e-46ad6a870c65.svg)](https://wakatime.com/@6e3a0c30-2bd0-42f4-ab2e-46ad6a870c65)
+[![WakaTime](https://wakatime.com/badge/user/6e3a0c30-2bd0-42f4-ab2e-46ad6a870c65.svg)](https://wakatime.com/@6e3a0c30-2bd0-42f4-ab2e-46ad6a870c65)  
 
-## 👨‍💻 I'm a Developer !!
-- 👯 I’m looking to collaborate with Developers.
-- ⚡ Fun fact: I love to play drums.
+---
+
+## 👨‍💻 About Me  
+- 💻 Passionate **developer** who loves turning ideas into code.  
+- 👯 Open to collaborating with **developers, designers, and open-source projects**.  
+- ⚡ Fun fact: When I’m not coding, you’ll probably find me **playing drums 🥁**.  
 
 ---
 

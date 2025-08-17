@@ -4,7 +4,6 @@
 [![wakatime](https://wakatime.com/badge/user/6e3a0c30-2bd0-42f4-ab2e-46ad6a870c65.svg)](https://wakatime.com/@6e3a0c30-2bd0-42f4-ab2e-46ad6a870c65)
 
 ## 👨‍💻 I'm a Developer !!
-- 🌱 I'm a Computer Science Engineering.
 - 👯 I’m looking to collaborate with Developers.
 - ⚡ Fun fact: I love to play drums.
 

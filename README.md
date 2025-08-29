@@ -18,14 +18,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 August 2025 - To: 27 August 2025
+From: 21 August 2025 - To: 28 August 2025
 
-Total Time: 10 hrs 59 mins
+Total Time: 11 hrs 7 mins
 
-C++          10 hrs 26 mins  ██████████████████████▓░░   90.44 %
-Other        32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-Text         31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+C++          9 hrs 35 mins   ████████████████████▓░░░░   82.14 %
+Text         56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
+Git Config   36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
+Other        32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
 ```
 
 <!--END_SECTION:waka-->

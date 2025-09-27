@@ -18,13 +18,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2025 - To: 24 September 2025
+From: 19 September 2025 - To: 26 September 2025
 
-Total Time: 2 hrs 52 mins
+Total Time: 3 hrs 10 mins
 
-Text     1 hr 47 mins    ███████████████▓░░░░░░░░░   62.56 %
-C++      57 mins         ████████▒░░░░░░░░░░░░░░░░   33.60 %
-Python   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+Text   1 hr 47 mins    ██████████████░░░░░░░░░░░   56.57 %
+C++    1 hr 22 mins    ███████████░░░░░░░░░░░░░░   43.43 %
 ```
 
 <!--END_SECTION:waka-->

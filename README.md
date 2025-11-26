@@ -18,13 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 November 2025 - To: 24 November 2025
+From: 18 November 2025 - To: 25 November 2025
 
-Total Time: 4 hrs 20 mins
+Total Time: 4 hrs 12 mins
 
-JavaScript   4 hrs 16 mins   ████████████████████████▓   98.47 %
-INI          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+JavaScript   4 hrs 8 mins    ████████████████████████▓   98.42 %
+INI          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->

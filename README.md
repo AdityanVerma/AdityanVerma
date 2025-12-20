@@ -18,14 +18,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 December 2025 - To: 18 December 2025
+From: 12 December 2025 - To: 19 December 2025
 
-Total Time: 13 hrs 10 mins
+Total Time: 13 hrs 28 mins
 
-JavaScript   5 hrs 32 mins   ██████████▓░░░░░░░░░░░░░░   42.02 %
-HTML         5 hrs 10 mins   █████████▓░░░░░░░░░░░░░░░   39.27 %
-CSS          1 hr 33 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.79 %
-C++          51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+JavaScript   5 hrs 40 mins   ██████████▓░░░░░░░░░░░░░░   42.11 %
+HTML         5 hrs 20 mins   ██████████░░░░░░░░░░░░░░░   39.60 %
+CSS          1 hr 33 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
+C++          51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
 Python       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 

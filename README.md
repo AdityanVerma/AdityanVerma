@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 February 2026 - To: 22 February 2026
+From: 16 February 2026 - To: 23 February 2026
 
-Total Time: 10 hrs 3 mins
+Total Time: 6 hrs 1 min
 
-C++          5 hrs 38 mins         ██████████████░░░░░░░░░░░   55.98 %
-JavaScript   2 hrs 17 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.76 %
-Text         1 hr 6 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
-TypeScript   26 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
-Markdown     21 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+C++          2 hrs 53 mins         ████████████░░░░░░░░░░░░░   47.80 %
+JavaScript   1 hr 16 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.05 %
+Text         51 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.09 %
+TypeScript   26 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
+Markdown     21 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
 ```
 
 <!--END_SECTION:waka-->

@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 June 2026 - To: 01 July 2026
+From: 25 June 2026 - To: 02 July 2026
 
-Total Time: 4 hrs 17 mins
+Total Time: 4 hrs 9 mins
 
-TypeScript   3 hrs 20 mins         ██████████████████▓░░░░░░   74.95 %
-Text         27 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
-JSON         13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
-Other        9 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-Git Config   7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+TypeScript   3 hrs 6 mins          ██████████████████▒░░░░░░   72.97 %
+Text         26 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 %
+JSON         18 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
+Git Config   7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+Other        6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
 ```
 
 <!--END_SECTION:waka-->
